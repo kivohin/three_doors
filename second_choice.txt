@@ -1,3 +1,9 @@
 Now I choose the first door! :)
 
+<<<<<<< HEAD
 And behind it I found Goku's Power Pole!
+=======
+And behind it I found the magic Dragon Balls! :D
+>>>>>>> new
+
+Hi Matias, above you can see the conflicts git found.
